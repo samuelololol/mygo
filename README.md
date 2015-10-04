@@ -6,5 +6,5 @@ $ go get <some/packages/url/>
 ```
 
 Reference:
-* [discussion of package management](http://io-meter.com/2014/07/30/go's-package-management/)
-    * [gpm/gvp ebuilds](https://github.com/samuelololol/gentoo-samuel/tree/master/dev-go)
+* [Go 語言的包依賴管理](http://io-meter.com/2014/07/30/go's-package-management/)
+* [Gentoo gpm/gvp ebuilds](https://github.com/samuelololol/gentoo-samuel/tree/master/dev-go)
